@@ -1,0 +1,63 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-image: linear-gradient(-225deg, #7DE2FC 0%, #B9B6E5 100%);
+ height: 2000px;
+}
+
+.box {
+
+    background-image: linear-gradient(60deg, #64b3f4 0%, #c2e59c 100%);
+    width: 500px;
+    height: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 70px;
+    border-radius: 40px;
+    text-align: center;
+
+}
+
+.alltext {
+    padding-top: 150px;
+    padding-bottom: 150px;
+    text-align: center;
+}
+
+.inp-login {
+    border-radius: 30px;
+    height: 25px;
+    width: 250px;
+    border: 0px
+}
+
+.inp-pasword {
+    border-radius: 30px;
+    height: 25px;
+    width: 250px;
+    border: 0px
+}
+
+#login {
+    padding: 10px;
+
+}
+
+#password {
+    padding: 15px;
+    padding-top: 5px;
+}
+
+button {
+    margin-top: 50px;
+    background-image: linear-gradient(to top, #bdc2e8 0%, #bdc2e8 1%, #e6dee9 100%);
+    border: 0px;
+    border-radius: 35px;
+    width: 200px;
+    height: 36px;
+   box-shadow: 2px 2px 5px white;
+
+
+}
+.checkbox {
+    padding: ;
+}
